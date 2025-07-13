@@ -1,5 +1,16 @@
 # 📘 Módulo 2: Fundamentos de Python
 
+## 📚 Clases del Módulo 2
+
+1. 👨🏽‍🏫 Clase M2 AE1: El lenguaje Python  
+2. 👨🏽‍🏫 Clase M2 AE2: Sentencias básicas del lenguaje Python  
+3. 👨🏽‍🏫 Clase M2 AE3: Funciones y módulos  
+4. 👨🏽‍🏫 Clase M2 AE4: Estructuras de datos en Python y sentencias iterativas  
+5. 👨🏽‍🏫 Clase M2 AE5: Orientación a objetos en Python  
+6. 👨🏽‍🏫 Clase M2 AE6: Excepciones en Python  
+
+---
+
 Este módulo es parte del curso **Fundamentos de la Ingeniería de Datos** y contiene ejercicios prácticos para afianzar los conceptos básicos de programación en Python aplicados a problemas reales y cotidianos.
 
 ---
@@ -45,5 +56,4 @@ Este módulo es parte del curso **Fundamentos de la Ingeniería de Datos** y con
 ---
 
 ## 📁 Estructura del proyecto
-
 
