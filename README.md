@@ -22,4 +22,4 @@ Portafolio/
 │   └── calculadora_basica/     ← Primer ejercicio: calculadora con funciones
 │       ├── calculadora.py
 │       └── README.md
-└── sql/                        ← Próximamente: ejercicios con bases de datos
+
