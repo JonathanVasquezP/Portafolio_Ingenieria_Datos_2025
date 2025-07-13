@@ -18,23 +18,23 @@ Este módulo forma parte del curso **Fundamentos de la Ingeniería de Datos** y 
 ## 🧪 Ejercicios realizados
 
 ### 👨🏽‍🏫 Clase M2 AE1: El lenguaje Python
-- `m2_ae1_calculadora_basica.ipynb`: Calculadora con funciones separadas y menú interactivo.
+- [`m2_ae1_calculadora_basica.ipynb`](m2_ae1_calculadora_basica.ipynb) — Calculadora básica con funciones y menú de usuario.
 
 ### 👨🏽‍🏫 Clase M2 AE2: Sentencias básicas del lenguaje Python
-- `m2_ae2_beneficios_edad.ipynb`: Solicita datos de usuario y verifica si accede a un beneficio según edad y país.
+- [`m2_ae2_beneficios_edad.ipynb`](m2_ae2_beneficios_edad.ipynb) — Determina si una persona accede a un beneficio según edad y país.
 
 ### 👨🏽‍🏫 Clase M2 AE3: Funciones y módulos
-- `m2_ae3_beneficios_modular.ipynb`: Reorganización del ejercicio anterior separando funciones en secciones.
+- [`m2_ae3_beneficios_modular.ipynb`](m2_ae3_beneficios_modular.ipynb) — Separación modular del código de beneficios.
 
-### 👨🏽‍🏫 Clase M2 AE4: Estructuras de datos en Python y sentencias iterativas
-- `m2_ae4_calificaciones.ipynb`: Análisis de calificaciones con listas, condicionales y cálculo de promedio.
-- `m2_ae4_directorio_empleados.ipynb`: Diccionario de diccionarios para representar empleados y filtrar por edad.
+### 👨🏽‍🏫 Clase M2 AE4: Estructuras de datos y sentencias iterativas
+- [`m2_ae4_calificaciones.ipynb`](m2_ae4_calificaciones.ipynb) — Análisis de lista de calificaciones (promedio, filtrado).
+- [`m2_ae4_directorio_empleados.ipynb`](m2_ae4_directorio_empleados.ipynb) — Diccionario de empleados con filtros por edad.
 
-### 👨🏽‍🏫 Clase M2 AE5: Orientación a objetos en Python
-- `m2_ae5_auto_poo.ipynb`: Clase `Auto` con atributos, métodos, estados y simulación de comportamiento.
+### 👨🏽‍🏫 Clase M2 AE5: Programación Orientada a Objetos
+- [`m2_ae5_auto_poo.ipynb`](m2_ae5_auto_poo.ipynb) — Simulación de un objeto `Auto` con métodos y estados.
 
-### 👨🏽‍🏫 Clase M2 AE6: Excepciones en Python
-- `m2_ae6_biblioteca_excepciones.ipynb`: Simulación de préstamos en una biblioteca con manejo de excepciones personalizadas.
+### 👨🏽‍🏫 Clase M2 AE6: Manejo de Excepciones
+- [`m2_ae6_biblioteca_excepciones.ipynb`](m2_ae6_biblioteca_excepciones.ipynb) — Simulación de préstamos con excepción personalizada.
 
 ---
 
@@ -46,6 +46,6 @@ Este módulo forma parte del curso **Fundamentos de la Ingeniería de Datos** y 
 
 ---
 
-## 📁 Estructura del repositorio
+## 📁 Estructura de la carpeta
 
 
