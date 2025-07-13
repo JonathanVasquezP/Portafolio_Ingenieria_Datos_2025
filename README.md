@@ -17,16 +17,13 @@ Este módulo es parte del curso **Fundamentos de la Ingeniería de Datos** y con
 
 Este módulo es parte del curso **Fundamentos de la Ingeniería de Datos** y contiene ejercicios prácticos para aprender los conceptos básicos de programación con Python.
 
----
 
-## 🧪 Ejercicios realizados
-
-- [M2_AE1_calculadora.ipynb](M2_AE1_calculadora.ipynb)  
-- [M2_AE2_acceso_beneficio.ipynb](M2_AE2_acceso_beneficio.ipynb)  
-- [M2_AE3_beneficio_funciones.ipynb](M2_AE3_beneficio_funciones.ipynb)  
-- [M2_AE4_Calificaciones_y_Directorio_.ipynb](M2_AE4_Calificaciones_y_Directorio_.ipynb)  
-- [M2_AE5_Atrubutos_Auto_.ipynb](M2_AE5_Atrubutos_Auto_.ipynb)  
-- [M2_AE6_Prestamo_Libro.ipynb](M2_AE6_Prestamo_Libro.ipynb)  
+- [Calculadora básica (M2_AE1)](modulo_2/M2_AE1_calculadora.ipynb)  
+- [Acceso a beneficios (M2_AE2)](modulo_2/M2_AE2_acceso_beneficio.ipynb)  
+- [Beneficios modular (M2_AE3)](modulo_2/M2_AE3_beneficio_funciones.ipynb)  
+- [Calificaciones y Directorio (M2_AE4)](modulo_2/M2_AE4_Calificaciones_y_Directorio_.ipynb)  
+- [Atributos Auto (M2_AE5)](modulo_2/M2_AE5_Atrubutos_Auto_.ipynb)  
+- [Préstamo Libro (M2_AE6)](modulo_2/M2_AE6_Prestamo_Libro.ipynb)  
 
 ---
 
