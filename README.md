@@ -1,40 +1,38 @@
 # 📘 Módulo 2: Fundamentos de Python
 
-Este módulo forma parte del curso **Fundamentos de la Ingeniería de Datos** y tiene como objetivo introducir los principios básicos de programación utilizando Python. A través de ejercicios prácticos, se abordan estructuras fundamentales como variables, condicionales, bucles, funciones, estructuras de datos, orientación a objetos y manejo de excepciones.
+Este módulo es parte del curso **Fundamentos de la Ingeniería de Datos** y contiene ejercicios prácticos para aprender los conceptos básicos de programación con Python.
 
 ---
 
-## 🧠 Objetivos del módulo
+## 🧠 Objetivos
 
-- Comprender y aplicar los fundamentos del lenguaje Python.
-- Utilizar estructuras de control como condicionales y bucles.
-- Organizar el código en funciones y módulos reutilizables.
-- Trabajar con listas, diccionarios y estructuras iterables.
-- Comprender los principios básicos de la Programación Orientada a Objetos (POO).
-- Manejar errores y excepciones de forma controlada.
+- Comprender variables, tipos y estructuras básicas en Python.
+- Trabajar con condicionales, funciones y módulos.
+- Manipular listas, diccionarios y bucles.
+- Introducción a la programación orientada a objetos.
+- Manejo de excepciones y errores.
 
 ---
 
 ## 🧪 Ejercicios realizados
 
-### 👨🏽‍🏫 Clase M2 AE1: El lenguaje Python
-- [`m2_ae1_calculadora_basica.ipynb`](m2_ae1_calculadora_basica.ipynb) — Calculadora básica con funciones y menú de usuario.
+- [M2_AE1_calculadora.ipynb](M2_AE1_calculadora.ipynb)  
+  Calculadora básica con funciones separadas y menú interactivo.
 
-### 👨🏽‍🏫 Clase M2 AE2: Sentencias básicas del lenguaje Python
-- [`m2_ae2_beneficios_edad.ipynb`](m2_ae2_beneficios_edad.ipynb) — Determina si una persona accede a un beneficio según edad y país.
+- [M2_AE2_acceso_beneficio.ipynb](M2_AE2_acceso_beneficio.ipynb)  
+  Verificación de acceso a beneficios según edad y país.
 
-### 👨🏽‍🏫 Clase M2 AE3: Funciones y módulos
-- [`m2_ae3_beneficios_modular.ipynb`](m2_ae3_beneficios_modular.ipynb) — Separación modular del código de beneficios.
+- [M2_AE3_beneficio_funciones.ipynb](M2_AE3_beneficio_funciones.ipynb)  
+  Modularización del programa de beneficios.
 
-### 👨🏽‍🏫 Clase M2 AE4: Estructuras de datos y sentencias iterativas
-- [`m2_ae4_calificaciones.ipynb`](m2_ae4_calificaciones.ipynb) — Análisis de lista de calificaciones (promedio, filtrado).
-- [`m2_ae4_directorio_empleados.ipynb`](m2_ae4_directorio_empleados.ipynb) — Diccionario de empleados con filtros por edad.
+- [M2_AE4_Calificaciones_y_Directorio_.ipynb](M2_AE4_Calificaciones_y_Directorio_.ipynb)  
+  Análisis de calificaciones y manejo de directorio de empleados.
 
-### 👨🏽‍🏫 Clase M2 AE5: Programación Orientada a Objetos
-- [`m2_ae5_auto_poo.ipynb`](m2_ae5_auto_poo.ipynb) — Simulación de un objeto `Auto` con métodos y estados.
+- [M2_AE5_Atrubutos_Auto_.ipynb](M2_AE5_Atrubutos_Auto_.ipynb)  
+  Implementación de clase Auto con atributos y métodos.
 
-### 👨🏽‍🏫 Clase M2 AE6: Manejo de Excepciones
-- [`m2_ae6_biblioteca_excepciones.ipynb`](m2_ae6_biblioteca_excepciones.ipynb) — Simulación de préstamos con excepción personalizada.
+- [M2_AE6_Prestamo_Libro.ipynb](M2_AE6_Prestamo_Libro.ipynb)  
+  Simulación de préstamos en biblioteca con manejo de excepciones.
 
 ---
 
@@ -46,6 +44,5 @@ Este módulo forma parte del curso **Fundamentos de la Ingeniería de Datos** y 
 
 ---
 
-## 📁 Estructura de la carpeta
-
+## 📁 Estructura
 
