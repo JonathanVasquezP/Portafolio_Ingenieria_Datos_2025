@@ -21,8 +21,13 @@ El contenido está organizado en módulos que abordan distintos temas fundamenta
 
 - **Módulo 1:** Introducción a Python y entorno de desarrollo  
 - **Módulo 2:** Fundamentos del lenguaje Python (variables, condicionales, funciones, estructuras de datos, POO y excepciones)  
-- **Módulo 3:** [Próximamente]  
-- **Módulo 4:** [Próximamente]  
+- **Módulo 3:** Obtención y preparación de datos  
+- **Módulo 4:** Bases de datos para ingenieros de datos  
+- **Módulo 5:** Fundamentos de Arquitectura y modelamiento de Datos  
+- **Módulo 6:** Machine Learning para Ingenieros de datos
+- **Módulo 7:** Introduccion al Procesamiento distribuido y sistemas bigdata  
+- **Módulo 8:** Integración de datos
+- **Módulo 9:** Tecnologia cloud para ingenieros de datos 
 
 Cada módulo contiene cuadernos de Google Colab (.ipynb), documentación técnica y ejercicios prácticos.
 
